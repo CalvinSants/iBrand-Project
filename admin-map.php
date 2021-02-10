@@ -138,7 +138,7 @@ include_once 'locations_model.php';
             <td><input id='confirmed' type='checkbox' name='confirmed'></td>
         </tr>
 
-        <tr><td></td><td><input type='button' value='Save' onclick='saveData()'/></td></tr>
+        <tr><td></td><td><input type='button' value='Salvar' onclick='saveData()'/></td></tr>
     </table>
 </div>
 <script async defer
